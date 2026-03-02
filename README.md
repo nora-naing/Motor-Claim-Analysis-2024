@@ -21,7 +21,7 @@ This project analyzes 2024 motor insurance claim data using Power BI to uncover 
 * Power BI
 * DAX Calculations
 * Data Cleaning & Transformation
-* Data Modeling
+* Data Visualization & Storytelling
 * Business Insight Generation
 
 ## Key Insights
@@ -30,3 +30,22 @@ This project analyzes 2024 motor insurance claim data using Power BI to uncover 
 * Performance variation across sales teams highlights opportunities for targeted training and improved risk awareness.
 * Additional data integration could enhance predictive risk modeling capabilities.
 * Enhanced underwriting processes can reduce exposure to high-loss segments.
+
+## Dashboard Preview
+### Summary
+![Summary](01-summary.png)
+### Sales Team Performance
+![Sales Team Performance](02-sales-team-performance.png)
+### Vehicle Class Analysis
+![Vehicle Class Analysis](03-vehicle-class-analysis.png)
+### Customer Analysis
+![Customer Analysis](04-customer-analysis.png)
+
+## Repository Structure
+* [Download Power BI File](motor-claim-analysis-2024.pbix)
+* [01-summary.png](01-summary.png)
+* [02-sales-team-performance.png](02-sales-team-performance.png)
+* [03-vehicle-class-analysis.png](03-vehicle-class-analysis.png)
+* [04-customer-analysis.png](04-customer-analysis.png)
+* [05-customer-risk-assessments.png](05-customer-risk-assessments.png)
+* [06-claim-detail-info.png](06-claim-detail-info.png)
